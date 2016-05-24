@@ -1,0 +1,62 @@
+body{
+  background-image: url(http://2.bp.blogspot.com/-MDC7YC0_vX8/VE2ruywgtkI/AAAAAAAAODE/ERMWfSoSYTo/s1600/IMG_3441.jpg);
+  background-color: #c0c0c0;
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  color: #C0C0C0;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 32px;
+  color: #000000;
+  text-shadow: 2px 2px 1px #737373;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 24px;
+  color: #000000;
+  text-shadow: 1px 1px 0px #737373;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 18px;
+  color: #000;
+  text-shadow: 1px 1px 0px #737373;
+  line-height: 300%;
+}
+
+ul {
+  text-align: left;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 18px;
+  color: #000;
+  text-shadow: 2px 2px 1px #737373;
+}
+
+ol {
+  text-align: left;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 18px;
+  color: #000;
+  text-shadow: 2px 2px 1px #737373;
+}
+
+p {
+  text-align: center;
+  font-family: "Georgia serif", Georgia, serif;
+  font-size: 14px;
+  color: #000;
+}
+
+a{
+    color: white; text-decoration: none;
+    font-size: 14px;
+    color: #000;
+    text-shadow: 1px 1px 0px #737373;
+}
